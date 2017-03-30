@@ -1,0 +1,13 @@
+{
+	"type": "Collection",
+	"properties": {
+		"Chemicals": {
+			"name": "Chemicals",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "Chemicals",
+			"order": 0
+		}
+	}
+}
